@@ -1,4 +1,5 @@
-## 👩‍🏭Building bullshit to annoy X-perienced devs and bih tech while working a low-paying job.
+## Building bullshit to annoy X-perienced devs and bih tech
+### while working a low-paying job 👩‍🏭
 
 > Here are some kitties for you.
 
